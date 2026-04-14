@@ -1,2 +1,2 @@
 # portfolio-website
-A stupidly basic website about me, and stuff I care about..
+A stupidly basic website about me, and things I care about..
